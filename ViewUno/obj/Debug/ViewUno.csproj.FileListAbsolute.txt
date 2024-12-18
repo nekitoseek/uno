@@ -1,0 +1,52 @@
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\ViewUno.exe.config
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\ViewUno.exe
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\ViewUno.pdb
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\ModelUno.dll
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\MySql.Data.dll
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Memory.dll
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Buffers.dll
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\ModelUno.pdb
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\ModelUno.dll.config
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Memory.xml
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\bin\Debug\System.Buffers.xml
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.AssemblyReference.cache
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.MainForm.resources
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.Properties.Resources.resources
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.SelectColorForm.resources
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.GenerateResource.cache
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.CoreCompileInputs.cache
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.Up2Date
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.exe
+C:\Users\petrr\Downloads\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.pdb
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\ViewUno.exe.config
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\ViewUno.exe
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\ViewUno.pdb
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\ModelUno.dll
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\MySql.Data.dll
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Memory.dll
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Buffers.dll
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\ModelUno.pdb
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\ModelUno.dll.config
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Memory.xml
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\bin\Debug\System.Buffers.xml
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.AssemblyReference.cache
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.MainForm.resources
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.Properties.Resources.resources
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.SelectColorForm.resources
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.GenerateResource.cache
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.CoreCompileInputs.cache
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.csproj.Up2Date
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.exe
+C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ViewUno\obj\Debug\ViewUno.pdb
