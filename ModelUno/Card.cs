@@ -2,9 +2,6 @@
 
 namespace ModelUno
 {
-    /// <summary>
-    /// Карта
-    /// </summary>
     [Serializable]
     public class Card
     {
@@ -16,21 +13,15 @@ namespace ModelUno
 
         public string Name { get; private set; }
 
-        /// <summary>
-        /// Особенность карты, определяющее её свойства
-        /// </summary>
+        // особенность карты с ее свойством
         public Feature Feature { get; set; }
 
         public int ID { get; }
 
-        /// <summary>
-        /// Стоимость карты
-        /// </summary>
+        // стоимость карты
         public int Cost { get; set; }
 
-        /// <summary>
-        /// Цвет карты
-        /// </summary>
+        // Цвет карты
         public CardColor Color { get; set; }
 
         public void ChangeWildColor(CardColor color)

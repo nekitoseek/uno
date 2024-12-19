@@ -84,3 +84,46 @@ C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ModelUn
 C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ModelUno\obj\Debug\ModelUno.csproj.Up2Date
 C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ModelUno\obj\Debug\ModelUno.dll
 C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ModelUno\obj\Debug\ModelUno.pdb
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\ModelUno.dll.config
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\ModelUno.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\ModelUno.pdb
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\MySql.Data.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Npgsql.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Buffers.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Memory.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Text.Json.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Threading.Channels.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.ValueTuple.dll
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\Npgsql.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Buffers.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Memory.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Text.Json.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Threading.Channels.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mev43\Documents\Uno\ModelUno\bin\Debug\System.ValueTuple.xml
+C:\Users\mev43\Documents\Uno\ModelUno\obj\Debug\ModelUno.csproj.AssemblyReference.cache
+C:\Users\mev43\Documents\Uno\ModelUno\obj\Debug\ModelUno.Properties.Resources.resources
+C:\Users\mev43\Documents\Uno\ModelUno\obj\Debug\ModelUno.csproj.GenerateResource.cache
+C:\Users\mev43\Documents\Uno\ModelUno\obj\Debug\ModelUno.csproj.CoreCompileInputs.cache
+C:\Users\mev43\Documents\Uno\ModelUno\obj\Debug\ModelUno.csproj.Up2Date
+C:\Users\mev43\Documents\Uno\ModelUno\obj\Debug\ModelUno.dll
+C:\Users\mev43\Documents\Uno\ModelUno\obj\Debug\ModelUno.pdb

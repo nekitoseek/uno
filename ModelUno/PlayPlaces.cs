@@ -40,9 +40,7 @@ namespace ModelUno
             Order = 0;
         }
 
-        /// <summary>
-        /// Очистить таблицу игроков
-        /// </summary>
+        // очистка таблицы игроков
         public static void Clear()
         {
             using (var server = new Server())
@@ -79,9 +77,7 @@ namespace ModelUno
             }
         }
 
-        /// <summary>
-        /// Очистить таблицу результатов
-        /// </summary>
+        // очистка таблицы результатов
         public static void ClearScores()
         {
             using (var server = new Server())
@@ -164,10 +160,7 @@ namespace ModelUno
             return null;
         }
 
-        /// <summary>
-        /// Очистить место имени игрока, т.к. игрок отключился
-        /// </summary>
-        /// <param name="stepOrder"></param>
+        // очистка места имени игрока, т.к. игрок отключился
         public static void ClearPlayerPlace(int stepOrder)
         {
             using (var server = new Server())

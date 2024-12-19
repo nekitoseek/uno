@@ -2,15 +2,10 @@
 {
     partial class MainForm
     {
-        /// <summary>
-        /// Обязательная переменная конструктора.
-        /// </summary>
+        // Обязательная переменная конструктора.
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Освободить все используемые ресурсы.
-        /// </summary>
-        /// <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        // Освободить все используемые ресурсы.
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,10 +17,8 @@
 
         #region Код, автоматически созданный конструктором форм Windows
 
-        /// <summary>
         /// Требуемый метод для поддержки конструктора — не изменяйте 
         /// содержимое этого метода с помощью редактора кода.
-        /// </summary>
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
@@ -41,7 +34,7 @@
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.viewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.showLogToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.actionsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            //this.actionsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.getCardToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.tsslStatusMessage = new System.Windows.Forms.ToolStripStatusLabel();
@@ -96,7 +89,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.gameToolStripMenuItem,
             this.viewToolStripMenuItem,
-            this.actionsToolStripMenuItem});
+            //this.actionsToolStripMenuItem
+            });
             this.menuStrip1.Location = new System.Drawing.Point(20, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(874, 24);
@@ -107,7 +101,7 @@
             // 
             this.gameToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.clearGameToolStripMenuItem,
-            this.gameWithBotsToolStripMenuItem,
+            //this.gameWithBotsToolStripMenuItem,
             this.toolStripMenuItem2,
             this.connectToGameToolStripMenuItem,
             this.runTheGameToolStripMenuItem,
@@ -117,7 +111,7 @@
             this.gameToolStripMenuItem.ForeColor = System.Drawing.Color.CornflowerBlue;
             this.gameToolStripMenuItem.Name = "gameToolStripMenuItem";
             this.gameToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
-            this.gameToolStripMenuItem.Text = "Файл";
+            this.gameToolStripMenuItem.Text = "Меню";
             this.gameToolStripMenuItem.DropDownOpening += new System.EventHandler(this.gameToolStripMenuItem_DropDownOpening);
             // 
             // clearGameToolStripMenuItem
@@ -127,13 +121,13 @@
             this.clearGameToolStripMenuItem.Text = "Очистить";
             this.clearGameToolStripMenuItem.Click += new System.EventHandler(this.clearGameToolStripMenuItem_Click);
             // 
-            // gameWithBotsToolStripMenuItem
-            // 
-            this.gameWithBotsToolStripMenuItem.Name = "gameWithBotsToolStripMenuItem";
-            this.gameWithBotsToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
-            this.gameWithBotsToolStripMenuItem.Text = "Игра с ботами";
-            this.gameWithBotsToolStripMenuItem.Click += new System.EventHandler(this.gameWithBotsToolStripMenuItem_Click);
-            // 
+            //// gameWithBotsToolStripMenuItem
+            //// 
+            //this.gameWithBotsToolStripMenuItem.Name = "gameWithBotsToolStripMenuItem";
+            //this.gameWithBotsToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
+            //this.gameWithBotsToolStripMenuItem.Text = "Игра с ботами";
+            //this.gameWithBotsToolStripMenuItem.Click += new System.EventHandler(this.gameWithBotsToolStripMenuItem_Click);
+            //// 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
@@ -193,20 +187,20 @@
             // 
             // actionsToolStripMenuItem
             // 
-            this.actionsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.getCardToolStripMenuItem});
-            this.actionsToolStripMenuItem.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.actionsToolStripMenuItem.Name = "actionsToolStripMenuItem";
-            this.actionsToolStripMenuItem.Size = new System.Drawing.Size(91, 20);
-            this.actionsToolStripMenuItem.Text = "Действия";
+            //this.actionsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            //this.getCardToolStripMenuItem});
+            //this.actionsToolStripMenuItem.ForeColor = System.Drawing.Color.CornflowerBlue;
+            //this.actionsToolStripMenuItem.Name = "actionsToolStripMenuItem";
+            //this.actionsToolStripMenuItem.Size = new System.Drawing.Size(91, 20);
+            //this.actionsToolStripMenuItem.Text = "Действия";
             // 
             // getCardToolStripMenuItem
             // 
-            this.getCardToolStripMenuItem.Enabled = false;
-            this.getCardToolStripMenuItem.Name = "getCardToolStripMenuItem";
-            this.getCardToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
-            this.getCardToolStripMenuItem.Text = "Взять карту";
-            this.getCardToolStripMenuItem.Click += new System.EventHandler(this.btnGetACardFromPurchase_Click);
+            //this.getCardToolStripMenuItem.Enabled = false;
+            //this.getCardToolStripMenuItem.Name = "getCardToolStripMenuItem";
+            //this.getCardToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
+            //this.getCardToolStripMenuItem.Text = "Взять карту";
+            //this.getCardToolStripMenuItem.Click += new System.EventHandler(this.btnGetACardFromPurchase_Click);
             // 
             // statusStrip1
             // 
@@ -598,7 +592,7 @@
         private System.Windows.Forms.ToolStripStatusLabel tsslStatusMessage;
         private System.Windows.Forms.Timer timerErrorStatus;
         private System.Windows.Forms.ToolStripMenuItem viewToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem actionsToolStripMenuItem;
+        //private System.Windows.Forms.ToolStripMenuItem actionsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem showLogToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem getCardToolStripMenuItem;
         private System.Windows.Forms.Button btnSayUnoIfOneCard;

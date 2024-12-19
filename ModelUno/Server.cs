@@ -14,7 +14,7 @@ namespace ModelUno
 
         public Server()
         {
-            // "server=localhost;user=root;port=3306;password=3141592653;database=UNO;";
+            //"server=localhost;user=root;port=3306;password=root;database=UNO;";
             connectionString = Properties.Settings.Default.ConnectionString;
             Connection = new MySqlConnection(connectionString);
             serverConnected = TryToConnect();
@@ -29,7 +29,7 @@ namespace ModelUno
         {
             try
             {
-                // произведем попытку подключения
+                // попытка подключения
                 Connection.Open();
                 lasterrorString = string.Empty;
                 return true;

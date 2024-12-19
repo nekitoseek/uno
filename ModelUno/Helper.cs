@@ -282,6 +282,7 @@ namespace ModelUno
             }
         }
 
+        // словарь ключ-значение с нашими картами
         public static Dictionary<string, Image> GetResourceImages()
         {
             var dict = new Dictionary<string, Image>();
@@ -292,6 +293,7 @@ namespace ModelUno
             var source = Properties.Resources.Cards;
             using (var graphics = Graphics.FromImage(source))
             {
+                // размеры одной карты
                 var width = 241;
                 var height = 360;
                 for (var i = 0; i < 8; i++)
@@ -306,7 +308,7 @@ namespace ModelUno
                             g.DrawImage(source, 0, 0, rect, GraphicsUnit.Pixel);
                         }
                         image.MakeTransparent(Color.Green);
-                        // пропускаем пустые карты, всего должно получиться 108 карт в колоде
+                        // пропускаем пустые карты, всего в итоге 108 карт в колоде
                         if (i > 3 && j == 0)
                             continue;
                         string key = string.Empty;

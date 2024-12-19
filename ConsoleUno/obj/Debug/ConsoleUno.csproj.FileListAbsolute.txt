@@ -20,3 +20,25 @@ C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\Console
 C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ConsoleUno\obj\Debug\ConsoleUno.csproj.Up2Date
 C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ConsoleUno\obj\Debug\ConsoleUno.exe
 C:\Users\petrr\OneDrive\Рабочий стол\1.Программа\Uno\ConsoleUno\obj\Debug\ConsoleUno.pdb
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\ConsoleUno.exe.config
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\ConsoleUno.exe
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\ConsoleUno.pdb
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\ModelUno.dll
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\MySql.Data.dll
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Memory.dll
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Buffers.dll
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\ModelUno.pdb
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\ModelUno.dll.config
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Memory.xml
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mev43\Documents\Uno\ConsoleUno\bin\Debug\System.Buffers.xml
+C:\Users\mev43\Documents\Uno\ConsoleUno\obj\Debug\ConsoleUno.csproj.AssemblyReference.cache
+C:\Users\mev43\Documents\Uno\ConsoleUno\obj\Debug\ConsoleUno.csproj.CoreCompileInputs.cache
+C:\Users\mev43\Documents\Uno\ConsoleUno\obj\Debug\ConsoleUno.csproj.Up2Date
+C:\Users\mev43\Documents\Uno\ConsoleUno\obj\Debug\ConsoleUno.exe
+C:\Users\mev43\Documents\Uno\ConsoleUno\obj\Debug\ConsoleUno.pdb

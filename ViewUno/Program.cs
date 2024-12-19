@@ -8,9 +8,7 @@ namespace ViewUno
 {
     internal static class Program
     {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
+        // Главная точка входа для приложения
         [STAThread]
         static void Main()
         {
